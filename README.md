@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Daniel%20Walczak&fontSize=50&fontColor=4ade80&descAlignY=70&descAlign=50"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Integração+de+APIs+%26+ETL;Automação+com+Python+%26+Selenium;Mentoria+em+TI" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Integração+de+APIs+%26+ETL;Automação+com+Python+%26+Selenium" alt="Typing Animation" />
   </a>
 </div>
 
@@ -10,11 +10,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construção de sistemas web robustos e arquiteturas orientadas a dados. Combino práticas de engenharia de software com análise de dados para otimizar processos de ponta a ponta.
+Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construção de sistemas web. Combino práticas de engenharia de software com análise de dados para otimizar processos de ponta a ponta.
 
-- ⚙️ **Especialidades:** Desenvolvimento backend e frontend, processos de **ETL**, estruturação de bancos de dados e integração de **APIs REST**.
+- ⚙️ **Especialidades:** Desenvolvimento backend e frontend, processos de **ETL** e integração de **APIs REST**.
 - 🤖 **Automação:** Experiência prática na criação de rotinas automatizadas e web scraping utilizando **Selenium**.
-- 🤝 **Mentoria e Liderança:** Atuo como consultor e mentor de TI, auxiliando no desenvolvimento técnico de equipes, estruturação de soluções Microsoft 365 e planejamento de projetos.
+- 🤝 **Mentoria e Liderança:** Atuo como consultor e mentor de TI, auxiliando no desenvolvimento técnico de equipes, estruturação de soluções com ecossistema Microsoft 365.
 - 🎯 **Foco:** Entregar código limpo, escalável e soluções que trazem impacto real para o negócio.
 
 <br/>
@@ -32,7 +32,7 @@ Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construç
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <br/>
@@ -41,7 +41,7 @@ Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construç
 
 <br/>
 
-## 🐍 Commits Snake Animation
+## 🐍 Animação Snake para Commits
 
 <div align="center">
   <picture>
