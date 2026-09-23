@@ -36,8 +36,8 @@ Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construç
 
 <div align="center">
   <!-- Substitua "danielwalczak01" pelo seu username exato do GitHub caso seja diferente -->
-  <img src="https://github-readme-stats.vercel.app/api?username=danielwalczak01&show_icons=true&bg_color=0d1117&text_color=a3a3a3&icon_color=4ade80&title_color=4ade80&hide_border=true&include_all_commits=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwalczak01&layout=compact&bg_color=0d1117&text_color=a3a3a3&title_color=4ade80&hide_border=true" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=danielwalczak01&show_icons=true&bg_color=0d1117&text_color=a3a3a3&icon_color=4ade80&title_color=4ade80&hide_border=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=danielwalczak01&layout=compact&bg_color=0d1117&text_color=a3a3a3&title_color=4ade80&hide_border=true" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -47,12 +47,12 @@ Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construç
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielwalczak01&bg_color=0D1117&color=4ade80&line=4ade80&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=danielwalczak01&bg_color=0D1117&color=4ade80&line=4ade80&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=danielwalczak01&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=nord" alt="GitHub Trophies" />
+  <img src="https://github-trophy.vercel.app/?username=danielwalczak01&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=nord" alt="GitHub Trophies" />
 </div>
 
 <br/>
