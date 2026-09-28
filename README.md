@@ -20,9 +20,16 @@ Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construç
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,vuejs,selenium&theme=dark" height="65" alt="Tecnologias" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="65" alt="Python" /><br/><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php&theme=dark" height="65" alt="PHP" /><br/><sub><b>PHP</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="65" alt="Laravel" /><br/><sub><b>Laravel</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="65" alt="SQL" /><br/><sub><b>SQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vuejs&theme=dark" height="65" alt="Vue.js" /><br/><sub><b>Vue.js</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" height="65" alt="Selenium" /><br/><sub><b>Selenium</b></sub></td>
+  </tr>
+</table>
 
 <br/>
 
