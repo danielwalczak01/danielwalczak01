@@ -38,15 +38,3 @@ Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construç
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielwalczak01&theme=dark&background=0d1117&border=00000000&stroke=00000000&ring=4ade80&fire=4ade80&currStreakNum=a3a3a3&sideNums=a3a3a3&currStreakLabel=4ade80&sideLabels=4ade80&dates=a3a3a3" alt="GitHub Streak" />
 </div>
-
-<br/>
-
-## 🐍 Animação Snake para Commits
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielwalczak01/danielwalczak01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielwalczak01/danielwalczak01/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/danielwalczak01/danielwalczak01/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
