@@ -6,7 +6,11 @@
   </picture>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Integração+de+APIs+%26+ETL;Automação+com+Python+%26+Selenium" alt="Typing Animation" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Integração+de+APIs+%26+ETL;Automação+com+Python+%26+Selenium">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&pause=1000&color=15803d&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Integração+de+APIs+%26+ETL;Automação+com+Python+%26+Selenium">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&pause=1000&color=4ade80&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Integração+de+APIs+%26+ETL;Automação+com+Python+%26+Selenium" alt="Typing Animation" />
+    </picture>
   </a>
 </div>
 
