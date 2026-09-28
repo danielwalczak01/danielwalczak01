@@ -10,11 +10,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construção de sistemas web. Combino práticas de engenharia de software com análise de dados para otimizar processos de ponta a ponta.
+Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construção de sistemas web. Combino práticas de engenharia de software com análise de dados para otimizar processos.
 
-- ⚙️ **Especialidades:** Desenvolvimento backend e frontend, processos de **ETL** e integração de **APIs REST**.
+- ⚙️ **Especialidades:** Desenvolvimento backend e frontend, processos de **ETL**.
 - 🤖 **Automação:** Experiência prática na criação de rotinas automatizadas e web scraping utilizando **Selenium**.
-- 🤝 **Mentoria e Liderança:** Atuo como consultor e mentor de TI, auxiliando no desenvolvimento técnico de equipes, estruturação de soluções com ecossistema Microsoft 365.
 - 🎯 **Foco:** Entregar código limpo, escalável e soluções que trazem impacto real para o negócio.
 
 <br/>
@@ -22,12 +21,7 @@ Desenvolvedor de software atuando em Bento Gonçalves, RS, com foco na construç
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4ade80" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=4ade80" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=4ade80" alt="Laravel" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4ade80" alt="SQL" />
-  <img src="https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4ade80" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=4ade80" alt="Selenium" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,vuejs,selenium&theme=dark" height="65" alt="Tecnologias" />
 </div>
 
 <br/>
